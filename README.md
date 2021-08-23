@@ -1,4 +1,4 @@
-![GitHub Logo](https://github.com/haidongNg/mi-card-flutter/blob/main/public/Screenshot_20210823-210758.png?raw=true)
+![GitHub Logo](https://github.com/haidongNg/mi-card-flutter/blob/main/Screenshot_20210823-210758.png?raw=true)
 # MiCard - How to Build Beautiful UIs with Flutter Widgets
 
 A new Flutter project.
